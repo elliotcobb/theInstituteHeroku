@@ -6,7 +6,7 @@
 
 <body>
 
-  <#include "nav.ftl">
+  <#--<#include "nav.ftl">-->
 
 <div class="container">
 
